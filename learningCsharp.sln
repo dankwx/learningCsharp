@@ -5,8 +5,6 @@ VisualStudioVersion = 17.12.35527.113 d17.12
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReadLine", "learningCsharp\ReadLine.csproj", "{17E8927B-39A3-4ACC-9CE7-F3389F1DEAD4}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ReadLineLessons", "ReadLineLessons", "{A08B7794-4817-4FDE-AB2B-0A5F6D7C444B}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -20,8 +18,5 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
-	EndGlobalSection
-	GlobalSection(NestedProjects) = preSolution
-		{17E8927B-39A3-4ACC-9CE7-F3389F1DEAD4} = {A08B7794-4817-4FDE-AB2B-0A5F6D7C444B}
 	EndGlobalSection
 EndGlobal
